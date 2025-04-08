@@ -1,8 +1,5 @@
-Here's a professional and academic-style **`README.md`** file for your college assignment, covering all three questions (1. Convert lowercase to uppercase, 2. Find smallest word, 3. Reverse all words), along with a responsible use/copyright policy:
 
----
 
-```markdown
 # Lex Programs – College Assignment
 
 ## 📚 Description
@@ -64,7 +61,7 @@ This repository contains three Lex (Lexical Analyzer) programs implemented in C/
 Created with the intention of helping fellow students learn and explore Lex programming more effectively.
 
 Happy Coding! 🚀
-```
+
 
 ---
 
